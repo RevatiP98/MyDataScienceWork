@@ -1,2 +1,2 @@
 # MyDataScienceWork
-Python for DS 
+Predictive Analytics 
